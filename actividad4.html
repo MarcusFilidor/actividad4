@@ -51,6 +51,7 @@ color: #333;
 
 section p {
 color: #555;
+text-align: justify;
 }
 
 section h1 {
