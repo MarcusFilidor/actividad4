@@ -150,8 +150,4 @@ color: #333;
        
     </div>
      <h1> Todos los derechos reservados.® </h1>
-</style>
 
-
-</body>
-</html>
